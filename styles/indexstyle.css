@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+
+ul {
+    list-style: circle;
+}

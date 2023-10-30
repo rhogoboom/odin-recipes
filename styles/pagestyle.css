@@ -1,0 +1,13 @@
+body {
+    background-color: darkgreen;
+    color: red
+}
+
+img {
+    width: 200px;
+    height: auto
+}
+
+h1, h2, p, ul, ol, li {
+    text-align: center;
+}

@@ -8,6 +8,9 @@ body {
 
 h1 {
     text-align: center;
+    background-color: black;
+    color: green;
+    padding: 1rem;
 }
 
 a {
@@ -17,4 +20,13 @@ a {
 
 ul {
     list-style: circle;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: left;
+}
+
+div {
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
 }
